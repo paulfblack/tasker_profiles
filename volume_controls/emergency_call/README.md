@@ -10,7 +10,7 @@ global variables and then reimplements them after the phone has been picked up a
 attempted calls by an important contact only increases if the previous important caller and the current important caller
 are the same and resets itself every hour.  
 
-*Note:* Currently, if multiple important contacts try and call you volume profiles will only change when one of those contacts 
+**Note:** Currently, if multiple important contacts try and call you volume profiles will only change when one of those contacts 
 calls three times in a row, without another important contact calling in between. Calls from "non-important" contacts will not effect
 volume profiles nor will they interrupt the counter for successive calls.  
   
