@@ -49,3 +49,4 @@ This profile can be downloaded in it's entirety from [emergency_call.prf.xml](ht
 > - At a location other than home.
 - Allow any 3 important callers to override volume settings (i.e. regardless of consecutive calls from one contact).
 - Adjust previous caller variable reset rate.
+- Switch out contact group: important with any contact. This would allow anyone _saved to your contacts_ to perform an emergency call.
