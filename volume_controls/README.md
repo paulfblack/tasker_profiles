@@ -1,2 +1,2 @@
-
-This folder is specifically for profiles related to controlling the volume on your smartphone.
+# Volume Controls
+This folder is specifically for profiles, tasks, scenes, and projects related to controlling the volume on your smartphone.
