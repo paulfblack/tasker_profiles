@@ -29,17 +29,17 @@ who might have locked themselves out). You can edit the used app and label in th
 
 ## Downloads and Tasks:  
   
-This profile can be downloaded in it's entirety from emergency_call.prf.xml or as individual tasks and profiles.  
+This profile can be downloaded in it's entirety from [emergency_call.prf.xml](https://github.com/paulfblack/tasker_profiles/tree/master/volume_controls/emergency_call) or as individual tasks and profiles.  
   
-### Profiles:  
-- clear_prev_caller  
-- emergency_calls  
-- emergency_mode  
+### [Profiles:](https://github.com/paulfblack/tasker_profiles/tree/master/volume_controls/emergency_call/profiles)  
+- [clear_prev_caller](https://github.com/paulfblack/tasker_profiles/blob/master/volume_controls/emergency_call/profiles/clear_prev_caller.prf.xml)  
+- [emergency_calls](https://github.com/paulfblack/tasker_profiles/blob/master/volume_controls/emergency_call/profiles/emergency_calls.prf.xml)  
+- [emergency_mode](https://github.com/paulfblack/tasker_profiles/blob/master/volume_controls/emergency_call/profiles/emergency_mode.prf.xml)  
   
-### Tasks:  
-- important_call  
-- clear_prev_caller  
-- emergency_mode_exit  
+### [Tasks:](https://github.com/paulfblack/tasker_profiles/tree/master/volume_controls/emergency_call/tasks)  
+- [important_call](https://github.com/paulfblack/tasker_profiles/blob/master/volume_controls/emergency_call/tasks/important_call.tsk.xml)  
+- [clear_prev_caller](https://github.com/paulfblack/tasker_profiles/blob/master/volume_controls/emergency_call/tasks/clear_prev_caller.tsk.xml)  
+- [emergency_mode_exit](https://github.com/paulfblack/tasker_profiles/blob/master/volume_controls/emergency_call/tasks/emergency_mode_exit.tsk.xml)  
   
 ## Suggested edits:  
 - Only activate emergency call and clear prev caller when:  
