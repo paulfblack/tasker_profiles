@@ -40,5 +40,6 @@ This profile can be downloaded in it's entirety from [silent_when_busy.prf.xml](
   
 **DoNotDistrub** - This variable stores the value of **%SILENT** when the task is triggered. This allows Do Not Disturb to be 
 turned off if **%SILENT** was Off at the start of the task. **%SILENT** is On if Do Not Disturb is set to on and off otherwise.  
+
     **note:** it is important that this variable has at least one capital letter to make it a global variable as it is set in the task volume off 
 and checked in the separate task restore volume.  
