@@ -12,17 +12,13 @@ This folder is specifically for profiles, tasks, scenes, and projects related to
      
 3. [Auto-adjust for Sleep](https://github.com/paulfblack/tasker_profiles/tree/master/volume_controls/auto_adjust_for_sleep)  
   
-    A. [By Calendar Event](https://github.com/paulfblack/tasker_profiles/tree/master/volume_controls/auto_adjust_for_sleep/by_calendar_event)  
-      
-        Lower volume and adjust brightness for sleep and increase in morning based on a calendar event.  
+    <details><summary>Lower volume and adjust brightness for sleep and increase in morning based on one of three triggers:</summary>  
+  
+      <br>A. [By Calendar Event](https://github.com/paulfblack/tasker_profiles/tree/master/volume_controls/auto_adjust_for_sleep/by_calendar_event)  
         
-    B. By Time of Day  
-    
-        **Coming soon** lower volume and adjust brightness for sleep and increase in morning based on ToD.
+      B. By Time of Day  
         
-    C. By Behavioral Triggers
-    
-        **Coming soon** lower volume and adjust brightness for sleep and increase in morning based on behavioral triggers.  
+      C. By Behavioral Triggers
      
 4. Mute at Work  
   
