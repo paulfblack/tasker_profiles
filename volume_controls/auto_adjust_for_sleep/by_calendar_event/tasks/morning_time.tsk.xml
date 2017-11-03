@@ -1,0 +1,28 @@
+<TaskerData sr="" dvi="1" tv="5.0u6m">
+<Task sr="task5">
+<cdate>1509238018141</cdate>
+<edate>1509549698217</edate>
+<id>5</id>
+<nme>Morning Time</nme>
+<pri>100</pri>
+<Action sr="act0" ve="7">
+<code>808</code>
+<Int sr="arg0" val="1"/>
+</Action>
+<Action sr="act1" ve="7">
+<code>305</code>
+<Int sr="arg0" val="6"/>
+<Int sr="arg1" val="0"/>
+<Int sr="arg2" val="0"/>
+</Action>
+<Action sr="act2" ve="7">
+<code>304</code>
+<Int sr="arg0" val="7"/>
+<Int sr="arg1" val="0"/>
+<Int sr="arg2" val="0"/>
+</Action>
+<Img sr="icn" ve="2">
+<nme>hd_aaa_ext_sun</nme>
+</Img>
+</Task>
+</TaskerData>
