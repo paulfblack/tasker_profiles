@@ -11,10 +11,19 @@ A repository containing my Tasker created profiles and tasks
      
      Turn phone to Do Not Disturb when a calendar begins if the event is marked as "busy". Restore previous settings when event ends.  
      
-   - Auto-adjust for Sleep (time of day)
-     
-     **Coming soon** automatically turn volume down during regular sleeping hours and increase volume in the morning by ToD.  
-     
-   - Auto-adjust for Sleep (calendar event)  
-     
-     **Coming soon** automatically automatically turn volume down during regular sleeping hours and increase volume in morning based on calendar event.  
+    - [Auto-adjust for Sleep](https://github.com/paulfblack/tasker_profiles/tree/master/volume_controls/auto_adjust_for_sleep)  
+  
+        A. [By Calendar Event](https://github.com/paulfblack/tasker_profiles/tree/master/volume_controls/auto_adjust_for_sleep/by_calendar_event)  
+      
+          Lower volume and adjust brightness for sleep and increase in morning based on a calendar event.  
+        
+        B. By Time of Day  
+    
+          **Coming soon** lower volume and adjust brightness for sleep and increase in morning based on ToD.
+        
+        C. By Behavioral Triggers
+    
+          **Coming soon** lower volume and adjust brightness for sleep and increase in morning based on behavioral triggers. 
+    - Mute at Work  
+  
+      **Coming soon** 
